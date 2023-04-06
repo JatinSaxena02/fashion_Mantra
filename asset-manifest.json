@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fashion_Mantra/static/css/main.919b631d.css",
+    "main.js": "/fashion_Mantra/static/js/main.df847b03.js",
+    "index.html": "/fashion_Mantra/index.html",
+    "main.919b631d.css.map": "/fashion_Mantra/static/css/main.919b631d.css.map",
+    "main.df847b03.js.map": "/fashion_Mantra/static/js/main.df847b03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.919b631d.css",
+    "static/js/main.df847b03.js"
+  ]
+}
